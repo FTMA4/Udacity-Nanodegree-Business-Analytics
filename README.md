@@ -34,10 +34,9 @@ In this project, I've created and built interactive dashboards and visualization
 
 I analyzed the dataset of US air carriers' flight delays and cancellations in 2015, and then reported the insights I found from these visuals. 
 
- 
-
-
-
-
+.
+.
+.
+.
 
 I would Like to thank the Abu Dhabi School of Government and its program Future Shapers which sponsored this Scholarship. 
